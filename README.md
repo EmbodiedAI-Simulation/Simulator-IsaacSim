@@ -1,4 +1,4 @@
-[EmbodiedAI](https://github.com/pzhren/EmbodiedAI/edit/main/README.md)
+Code：[EmbodiedAI](https://github.com/pzhren/EmbodiedAI/edit/main/README.md)
 
 # Isaac Sim 搭建基础指南
 
